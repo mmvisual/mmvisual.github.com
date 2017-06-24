@@ -7,10 +7,29 @@
 
 还包括一些本人学习研究过程所做的学习总结。
 
+##### 数学基础
+
+##### 图像处理
+
+##### 机器视觉
+
+##### 机器学习
+
+##### 数据仓库
+
+##### 数据工具
+
+##### 数据挖掘
+
+##### 音视频协议
 * MPEG2(https://mmvisual.github.io/)
 * MPEG4(https://mmvisual.github.io/)
 * MPEG-DASH(https://mmvisual.github.io/)
 * HLS(https://mmvisual.github.io/)
+
+##### 其他学习文档
+
+
 
 #### 版权特别说明
 所有文档的翻译都仅仅用于学习研究的目的，不做任何目的的商业用途，所有的翻译内容均没有原作者的授权。
